@@ -140,3 +140,9 @@ cython_debug/
 # Bruno ignores
 */content/ROM
 *Roms.rar
+*/ckpt/*
+# */content/*_agent/*
+*/content/results/*
+*/content/*.json
+*/content/*.mp4
+/Ignore/*
